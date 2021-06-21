@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lasivious
+- 👋 Hi, I’m @seree
 - 👀 I’m interested in ..About SmartContract and Blockchain
 - 🌱 I’m currently learning ..Solidity Dapp Defi 
 - 💞️ I’m looking to collaborate on everybody
-- 📫 How to reach me ...Telegram ADAY_TOKEN
+- 📫 How to reach me ...Telegram @ADAY_TOKEN
 
 <!---
 lasivious/lasivious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
